@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>My first_html</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+    <p>This is the 2nd paragraph</p>
+    <p>This is the 3rd paragraph</p>
+    <p>This is the 4th paragraph</p>
+    <h1>H1</h1>
+    <h2>H2</h2>
+    <h3>H3</h3>
+    <img src="https://www.holbertonschool.com/holberton-logo.png"/>
+  </body>
+</html>
